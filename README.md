@@ -1,1 +1,0 @@
-# infocard_app
